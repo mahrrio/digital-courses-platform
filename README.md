@@ -1,1 +1,1 @@
-also added a little presentation to compare the two sites
+also added a little presentation to compare the two sites in siteautomation.pdf
